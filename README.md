@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Bupesh-Rethen
+- 👋 Hi, I’m @Bupesh
+- 
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning ROS for better learning with Robotics
 - 📫 LinkedIn - @Bupesh Rethinam
